@@ -1,2 +1,2 @@
 # arabic-reader
-read arabic file  and annvert the text to sound
+انتاج ملف صوتى لأى نص داخل ملف ورد او تيكست او اى نص يتم ادخاله
